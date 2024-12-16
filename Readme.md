@@ -26,3 +26,9 @@ The **Weather App** is a web-based application that allows users to search for c
 
 ---
 
+## Project Structure
+![image](https://github.com/user-attachments/assets/203f9d40-9710-401a-9c00-fc1bdc71b09a)
+
+![image-1](https://github.com/user-attachments/assets/439f957f-38de-407e-996c-96dbe7eef639)
+![image-3](https://github.com/user-attachments/assets/e58af625-b979-4da1-895a-8302cdb31d5f)
+![image-2](https://github.com/user-attachments/assets/117914b4-510e-4d67-9498-366f8008fb1b)
